@@ -2,6 +2,7 @@
 
 
 INTRODUCTION
+
 Saudi Link is an advanced and technology-enabled app that combines a range of cutting-edge features using Cohere & Stable Diffusion to provide an exceptional travel experience for visitors exploring the Kingdom of Saudi Arabia.
 
 KEY FEATURES:
