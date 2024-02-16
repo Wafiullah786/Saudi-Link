@@ -1,10 +1,7 @@
-# Saudi-Link
-<img src = "118.png" width ="380" />
-
-
+# Saudi-Guide
 INTRODUCTION
 
-Saudi Link is an advanced and technology-enabled app that combines a range of cutting-edge features using Cohere & Stable Diffusion to provide an exceptional travel experience for visitors exploring the Kingdom of Saudi Arabia.
+Saudi Guide is an advanced and technology-enabled app that combines a range of cutting-edge features using Cohere & Stable Diffusion to provide an exceptional travel experience for visitors exploring the Kingdom of Saudi Arabia.
 
 KEY FEATURES:
 
